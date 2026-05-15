@@ -10,7 +10,10 @@ code absolute paths.
 import requests
 import base64
 import json
-# TODO: import additional modules as required from requirements.txt
+''' 
+TODO: import additional modules as required from requirements.txt or the 
+python standard library.
+'''
 
 logfile = 'response.log'                # DO NOT MODIFY
 server_name = 'secure-shared-store'     # DO NOT MODIFY
